@@ -1,4 +1,4 @@
-This repository contains python homeworks submitted for Data Management with Python Course and some small pratice projects.\
+This repository contains python homeworks submitted for Data Management with Python Course and some small pratice projects.
 
 1. It covers the following areas:
 2. Loading data from a variety of common formats
