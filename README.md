@@ -8,3 +8,4 @@ This repository contains python homeworks submitted for Data Management with Pyt
 6. Use of special python packages such as data visualization libraries
 7. Performing basic data mining
 8. Clustering and PCA
+9. Linear Regression
